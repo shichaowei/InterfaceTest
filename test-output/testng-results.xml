@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23185" started-at="2016-04-12T03:22:52Z" finished-at="2016-04-12T03:23:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23185" started-at="2016-04-12T03:22:52Z" finished-at="2016-04-12T03:23:15Z">
+      <class name="interfaceshikai.TestRegisterr">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:interfaceshikai.TestRegisterr@16aa0a0a]" name="beforeSuite" is-config="true" duration-ms="10" started-at="2016-04-12T11:22:52Z" finished-at="2016-04-12T11:22:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:interfaceshikai.TestRegisterr@16aa0a0a]" name="beforeClass" is-config="true" duration-ms="0" started-at="2016-04-12T11:22:52Z" finished-at="2016-04-12T11:22:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="TestLogin(java.util.Map)[pri:0, instance:interfaceshikai.TestRegisterr@16aa0a0a]" name="TestLogin" duration-ms="462" started-at="2016-04-12T11:23:14Z" data-provider="dp" finished-at="2016-04-12T11:23:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{image=http://www.baidu.com/ssb, password=123456, phone=13071892616, name=weishichao, securitycode=2363}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method status="PASS" signature="TestLogin(java.util.Map)[pri:0, instance:interfaceshikai.TestRegisterr@16aa0a0a]" name="TestLogin" duration-ms="11" started-at="2016-04-12T11:23:15Z" data-provider="dp" finished-at="2016-04-12T11:23:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{image=http://www.baidu.com/ssb, password=123457, phone=13071892616, name=weishichao, securitycode=2364}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method status="PASS" signature="TestLogin(java.util.Map)[pri:0, instance:interfaceshikai.TestRegisterr@16aa0a0a]" name="TestLogin" duration-ms="17" started-at="2016-04-12T11:23:15Z" data-provider="dp" finished-at="2016-04-12T11:23:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{image=http://www.baidu.com/ssb, password=123458, phone=13071892616, name=weishichao, securitycode=2365}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:interfaceshikai.TestRegisterr@16aa0a0a]" name="afterClass" is-config="true" duration-ms="0" started-at="2016-04-12T11:23:15Z" finished-at="2016-04-12T11:23:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:interfaceshikai.TestRegisterr@16aa0a0a]" name="afterSuite" is-config="true" duration-ms="0" started-at="2016-04-12T11:23:15Z" finished-at="2016-04-12T11:23:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- interfaceshikai.TestRegisterr -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
